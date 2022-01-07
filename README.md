@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on Magento 2.
-- 🌱 I’m currently learning Power Automation, Power Apps, Ms Graph.
 - 📫 How to reach me: [@hanguyen_apo](https://twitter.com/hanguyen_apo) [hanguyentieuyen@gmail.com](https://gmail.com/)
 - ⚡ Fun fact: I love cute animals like cat =)
 

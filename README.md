@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: [@hanguyen_apo](https://twitter.com/hanguyen_apo) [hanguyentieuyen@gmail.com](https://gmail.com/)
-- ⚡ Fun fact: I love cute animals like cat =)
+- ⚡ I’m currently working on Magento 2, Frontend.
 
 
 ![Alt Text](https://static.wixstatic.com/media/4cbe8d_f1ed2800a49649848102c68fc5a66e53~mv2.gif)

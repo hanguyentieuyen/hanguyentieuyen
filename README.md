@@ -4,8 +4,8 @@
 - ⚡ I’m currently working on Frontend.
 
 
------- Clone Landing Pages ------
-Clone Tide: 
+Clone Landing Pages:
+Clone Tide
 https://theincrediblesty.web.app/ 
 Travel-Agency: 
 https://reactjs-learning-xi.vercel.app/

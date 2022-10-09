@@ -5,7 +5,7 @@
 - Clone Landing Pages:
 - Clone Tide: https://theincrediblesty.web.app/ 
 - Travel-Agency: https://reactjs-learning-xi.vercel.app/
-- E-learning: https://e-learning-ashy.vercel.app/
+
 
 
 

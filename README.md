@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **hanguyentieuyen@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/hanguyentieuyen/hanguyentieuyen/blob/main/hayen.md](https://github.com/hanguyentieuyen/hanguyentieuyen/blob/main/hayen.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

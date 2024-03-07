@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Frontend**
 
 - 📫 How to reach me **hanguyentieuyen@gmail.com**
-
+- :point_right: My cv [link]([https://www.example.com/my%20great%20page](https://drive.google.com/drive/folders/1UgrlM3NiOKAgitJBBCck03PjwpuU5C8b))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

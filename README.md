@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Frontend**
 
 - 📫 How to reach me **hanguyentieuyen@gmail.com**
-- :point_right: [ My CV ](https://drive.google.com/file/d/16PLIyrKTgNNekcMNcfchf900sohFUjkZ/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ha-nguyen-tieu-yen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ha-nguyen-tieu-yen" height="30" width="40" /></a>

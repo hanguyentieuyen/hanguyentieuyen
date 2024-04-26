@@ -13,7 +13,7 @@
 </div>
 
 #### 🙋🏻‍♂️ About me
-Frontend Developer has more than 1 year of experience. Willing to learn about new web technologies, especially interested in frontend technologies. My long-term goal is to become a full-stack Web developer in the near future.
+Frontend Developer has nearly 2 years of experience. Willing to learn about new web technologies, especially interested in Frontend technology.
 
 
 #### 💻 Skill/Tools
@@ -21,7 +21,7 @@ Frontend Developer has more than 1 year of experience. Willing to learn about ne
 - **Languages**: Javascript, Typescript
 - **Framework/Library**: NextJS, ReactJS, React Query, Redux, GraphQL...
 - **Styled Library**: MUI, Antd, Tailwind, Scss...
-- **Tools**: Git/Github, Storybook,...
+- **Others**: Git/Github, Docker,...
 
 #### :briefcase: Work Experience
 
@@ -58,20 +58,19 @@ Frontend Developer has more than 1 year of experience. Willing to learn about ne
   - Integrated APIs to Frontend side.
 - **Technologies**: TypeScript, NuxtJS, GraphQL, Tailwind, Atomic design...
 
-##### :office: ATHL Solutions | Engineer | 4/2019 - 9/2022
+##### :office: ATHL Solutions | Engineer | 1/2019 - 9/2022
 **Responsibilities**
-- Developed landing websites by HTML, CSS, Bootstrap, JQuery.
-- Implemented and operated Ecommerce website on Magento 2 platform.
-- Collaborated with team members to test features, write guideline document, support user for auto call system.
+- Configured Voip freepbx system, IP phone.
+- Collaborated with third parties to implement and support user for Auto Call system.
+- Customized UI of the switchboard website using HTML, CSS, Bootstrap, JQuery.
+- Operated and updated Magento modules for e-commerce websites selling telecommunications equipment.
+- Researched Teams Services ( Bot framework, Teams Record Policy, Azure permissions)
 - Developed business processing application on low-code platform - Power Platform (Automate, Apps) of Microsoft.
-
 #### :wrench: Side project
 
 ##### E-commerce
 
 **🔗Webiste**: [link](https://reactjs-learning-z2ua.vercel.app/)
-
-**🔗Github**: [link](https://github.com/hanguyentieuyen/reactjs-learning/tree/main/ecommerce)
 
 **Technologies**: CSS, Bootstrap,ReactJS ,Hook, Redux, fakestore api.
 

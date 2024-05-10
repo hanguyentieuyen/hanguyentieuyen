@@ -13,7 +13,7 @@
 </div>
 
 #### 🙋🏻‍♂️ About me
-Frontend Developer has nearly 2 years of experience. Willing to learn about new web technologies, especially interested in Frontend technology.
+Frontend Developer has nearly 2 years of experience. Willing to learn about new web technologies, especially interested in Frontend technology. I'm also adding BE skills to help me achieve my long-term goal of becoming a Web developer in the next few years.
 
 
 #### 💻 Skill/Tools
